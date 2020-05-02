@@ -83,12 +83,12 @@
       <EnvironmentVariables>
          <EnvironmentVariable
             key = "GOOGLE_MAPS_KEY"
-            value = "AIzaSyCVMlSM46-O0hSgh6p--f0jgdq7uvL6_Eg"
+            value = "GOOGLE_MAPS_KEY"
             isEnabled = "YES">
          </EnvironmentVariable>
          <EnvironmentVariable
             key = "FIXER_API_KEY"
-            value = "f2021d52a31d7fff975ab77922c70ed4"
+            value = "FIXER_API_KEY"
             isEnabled = "YES">
          </EnvironmentVariable>
       </EnvironmentVariables>
