@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19D76" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Place" representedClassName=".Place" syncable="YES">
+        <attribute name="formattedAddress" optional="YES" attributeType="String"/>
+        <attribute name="latitude" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="phone" optional="YES" attributeType="String"/>
+        <attribute name="photo" optional="YES" attributeType="Binary"/>
+        <attribute name="placeId" optional="YES" attributeType="String"/>
+        <attribute name="rating" optional="YES" attributeType="Float" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="website" optional="YES" attributeType="String"/>
+        <relationship name="plan" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="PlannedRoute" inverseName="places" inverseEntity="PlannedRoute"/>
+        <relationship name="types" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Type" inverseName="place" inverseEntity="Type"/>
+    </entity>
+    <entity name="PlannedRoute" representedClassName=".PlannedRoute" syncable="YES">
+        <attribute name="createdAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="planName" optional="YES" attributeType="String"/>
+        <relationship name="places" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Place" inverseName="plan" inverseEntity="Place"/>
+        <relationship name="points" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="Point" inverseName="plan" inverseEntity="Point"/>
+    </entity>
+    <entity name="Point" representedClassName=".Point" syncable="YES">
+        <attribute name="point" optional="YES" attributeType="String"/>
+        <relationship name="plan" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="PlannedRoute" inverseName="points" inverseEntity="PlannedRoute"/>
+    </entity>
+    <entity name="Type" representedClassName=".Type" syncable="YES">
+        <attribute name="type" optional="YES" attributeType="String"/>
+        <relationship name="place" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Place" inverseName="types" inverseEntity="Place"/>
+    </entity>
+    <elements>
+        <element name="Place" positionX="-141.00390625" positionY="-14.5234375" width="128" height="208"/>
+        <element name="PlannedRoute" positionX="-356.05078125" positionY="-7.53125" width="128" height="103"/>
+        <element name="Point" positionX="-517.45703125" positionY="118.26171875" width="128" height="73"/>
+        <element name="Type" positionX="-337.41796875" positionY="260.49609375" width="128" height="73"/>
+    </elements>
+</model>

@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  TuristApp
+
+  Created by Diana Cepeda on 4/12/20.
+  Copyright © 2020 Diana Cepeda. All rights reserved.
+*/
+"where" = "Were are you going next?";
+"login" = "Login";
+"signup" = "Sign Up";
+"email" = "Email";
+"pass" = "Password";
+"fullName" = "Full Name";
+"pop" = "Popular Destinations";
+"guide" = "Guide to Public Transportation";
+"tips" = "Tips for traveling in Bogotá";
+"what" = "What do you want to translate?";
+"enter" = "Enter text here...";
+"cam" = "Camera or picture";
+"voice" = "Voice";

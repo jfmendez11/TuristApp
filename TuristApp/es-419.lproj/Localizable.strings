@@ -1,0 +1,20 @@
+/*
+  Localizable.strings
+  TuristApp
+
+  Created by Diana Cepeda on 4/12/20.
+  Copyright © 2020 Diana Cepeda. All rights reserved.
+*/
+"where" = "¿A donde quieres ir ahora?";
+"login" = "Acceder";
+"signup" = "Registrarse";
+"email" = "Correo";
+"pass" = "Contraseña";
+"pop" = "Destinos Populares";
+"guide" = "Guía del transporte público";
+"tips" = "Tips para viajar en Bogotá";
+"what" = "¿Qué quieres traducir?";
+"enter" = "Introduce texto aquí...";
+"cam" = "Cámara o imágen";
+"voice" = "Voz";
+"fullName" = "Nombre Completo";

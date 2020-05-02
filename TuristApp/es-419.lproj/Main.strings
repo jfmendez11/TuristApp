@@ -1,0 +1,165 @@
+
+/* Class = "UITextField"; text = "Transmilenio"; ObjectID = "05A-JF-9Lf"; */
+"05A-JF-9Lf.text" = "Transmilenio";
+
+/* Class = "UITabBarItem"; title = "Translate"; ObjectID = "3Y3-CA-j42"; */
+"3Y3-CA-j42.title" = "Translate";
+
+/* Class = "UITextField"; text = "SPA"; ObjectID = "46K-M6-oFK"; */
+"46K-M6-oFK.text" = "SPA";
+
+/* Class = "UILabel"; text = "Monserrate"; ObjectID = "64w-yL-EQw"; */
+"64w-yL-EQw.text" = "Monserrate";
+
+/* Class = "UITextField"; text = "Like Destination"; ObjectID = "6zt-Mq-fpL"; */
+"6zt-Mq-fpL.text" = "Like Destination";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8IJ-FC-2rk"; */
+"8IJ-FC-2rk.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Aua-uW-yMj"; */
+"Aua-uW-yMj.text" = "Label";
+
+/* Class = "UITextField"; text = "Enter text here..."; ObjectID = "CJK-ME-Z71"; */
+"CJK-ME-Z71.text" = "Enter text here...";
+
+/* Class = "UITextField"; text = "Transmilenio"; ObjectID = "EKf-a7-lpO"; */
+"EKf-a7-lpO.text" = "Transmilenio";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "F1K-IS-JZI"; */
+"F1K-IS-JZI.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "HrW-xU-EGg"; */
+"HrW-xU-EGg.normalTitle" = "Login";
+
+/* Class = "UITextField"; text = "ENG"; ObjectID = "IvA-Ce-Lev"; */
+"IvA-Ce-Lev.text" = "ENG";
+
+/* Class = "UILabel"; text = "Monserrate"; ObjectID = "JBn-Ca-Cpj"; */
+"JBn-Ca-Cpj.text" = "Monserrate";
+
+/* Class = "UITextField"; text = "Search bar"; ObjectID = "JWW-9A-GWf"; */
+"JWW-9A-GWf.text" = "Search bar";
+
+/* Class = "UILabel"; text = "Add a new place to your route"; ObjectID = "KB4-Oy-HON"; */
+"KB4-Oy-HON.text" = "Add a new place to your route";
+
+/* Class = "UIBarButtonItem"; title = "Routes"; ObjectID = "KO9-5T-NyL"; */
+"KO9-5T-NyL.title" = "Routes";
+
+/* Class = "UITextField"; text = "DESTINATION 1"; ObjectID = "MNf-Kw-roq"; */
+"MNf-Kw-roq.text" = "DESTINATION 1";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "MeY-tA-l5S"; */
+"MeY-tA-l5S.placeholder" = "Email";
+
+/* Class = "UINavigationItem"; title = "New Route"; ObjectID = "N49-nS-pS6"; */
+"N49-nS-pS6.title" = "New Route";
+
+/* Class = "UITextField"; text = "Popular destinations"; ObjectID = "Oyh-uT-1Iz"; */
+"Oyh-uT-1Iz.text" = "Popular destinations";
+
+/* Class = "UILabel"; text = "Monserrate"; ObjectID = "RCp-CK-qq4"; */
+"RCp-CK-qq4.text" = "Monserrate";
+
+/* Class = "UITextField"; text = "Guide to Public transportation"; ObjectID = "RdX-Gq-GKQ"; */
+"RdX-Gq-GKQ.text" = "Guide to Public transportation";
+
+/* Class = "UITextField"; text = "Monserrate"; ObjectID = "T2J-CS-sJH"; */
+"T2J-CS-sJH.text" = "Monserrate";
+
+/* Class = "UITextField"; text = "Tips to travel in Bogotá"; ObjectID = "T8T-At-FSZ"; */
+"T8T-At-FSZ.text" = "Tips to travel in Bogotá";
+
+/* Class = "UILabel"; text = "Where are you going next?"; ObjectID = "TNB-da-eWd"; */
+"TNB-da-eWd.text" = "Where are you going next?";
+
+/* Class = "UINavigationItem"; title = "Current Location"; ObjectID = "V1k-3j-eSM"; */
+"V1k-3j-eSM.title" = "Current Location";
+
+/* Class = "UITextField"; text = "DESTINATION 1"; ObjectID = "VDO-gC-IZA"; */
+"VDO-gC-IZA.text" = "DESTINATION 1";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "Vjn-Lc-0kP"; */
+"Vjn-Lc-0kP.title" = "Title";
+
+/* Class = "UITextField"; text = "Sitp"; ObjectID = "W2F-au-4Dg"; */
+"W2F-au-4Dg.text" = "Sitp";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "WbS-oB-ZDX"; */
+"WbS-oB-ZDX.title" = "Home";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "WzB-H3-uqm"; */
+"WzB-H3-uqm.text" = "Sign Up";
+
+/* Class = "UITextField"; text = "Monserrate is a high Mountain over 10,000 feet high that dominates the city center of Bogotá, the capital city of Colombia. It rises to 3,152 metres (10,341 ft) above the sea level, where there is a church (built in the 17th century) with a shrine, devoted to El Señor Caído (\"The Fallen Lord\")."; ObjectID = "Xax-bo-71s"; */
+"Xax-bo-71s.text" = "Monserrate is a high Mountain over 10,000 feet high that dominates the city center of Bogotá, the capital city of Colombia. It rises to 3,152 metres (10,341 ft) above the sea level, where there is a church (built in the 17th century) with a shrine, devoted to El Señor Caído (\"The Fallen Lord\").";
+
+/* Class = "UINavigationItem"; title = "Planned Routes"; ObjectID = "YD1-bC-zD7"; */
+"YD1-bC-zD7.title" = "Planned Routes";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YSs-ZP-r9S"; */
+"YSs-ZP-r9S.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "a2m-t1-yXJ"; */
+"a2m-t1-yXJ.normalTitle" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "aAd-Hy-Ro1"; */
+"aAd-Hy-Ro1.normalTitle" = "Sign Up";
+
+/* Class = "UITextField"; text = "Full Name"; ObjectID = "bAW-GP-ueF"; */
+"bAW-GP-ueF.text" = "Full Name";
+
+/* Class = "UITextView"; text = "Monserrate is a high Mountain over 10,000 feet high that dominates the city center of Bogotá, the capital city of Colombia. It rises to 3,152 metres (10,341 ft) above the sea level, where there is a church (built in the 17th century) with a shrine, devoted to El Señor Caído (\"The Fallen Lord\")."; ObjectID = "bJv-RG-ngk"; */
+"bJv-RG-ngk.text" = "Monserrate is a high Mountain over 10,000 feet high that dominates the city center of Bogotá, the capital city of Colombia. It rises to 3,152 metres (10,341 ft) above the sea level, where there is a church (built in the 17th century) with a shrine, devoted to El Señor Caído (\"The Fallen Lord\").";
+
+/* Class = "UILabel"; text = "TouristApp"; ObjectID = "c5Y-XW-rmj"; */
+"c5Y-XW-rmj.text" = "TouristApp";
+
+/* Class = "UILabel"; text = "EL RETIRO CHAT"; ObjectID = "ddN-jz-mGH"; */
+"ddN-jz-mGH.text" = "EL RETIRO CHAT";
+
+/* Class = "UITextView"; text = "Add destination to My Journey"; ObjectID = "eQ9-ub-Egg"; */
+"eQ9-ub-Egg.text" = "Add destination to My Journey";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "fck-Aw-7xA"; */
+"fck-Aw-7xA.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Edit Route"; ObjectID = "gmF-tn-48n"; */
+"gmF-tn-48n.normalTitle" = "Edit Route";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "id2-BU-1Gv"; */
+"id2-BU-1Gv.title" = "Search";
+
+/* Class = "UILabel"; text = "Log In"; ObjectID = "inm-cu-WlL"; */
+"inm-cu-WlL.text" = "Log In";
+
+/* Class = "UITextField"; text = "Jardín Botánico"; ObjectID = "lgO-4B-9Qp"; */
+"lgO-4B-9Qp.text" = "Jardín Botánico";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "md4-6f-p77"; */
+"md4-6f-p77.placeholder" = "Password";
+
+/* Class = "UITextView"; text = "What do you want to translate?"; ObjectID = "nTt-WR-d0q"; */
+"nTt-WR-d0q.text" = "What do you want to translate?";
+
+/* Class = "UILabel"; text = "Jardín Botánico"; ObjectID = "uIP-H7-PcP"; */
+"uIP-H7-PcP.text" = "Jardín Botánico";
+
+/* Class = "UITextField"; text = "Search bar"; ObjectID = "uOu-Pf-QLE"; */
+"uOu-Pf-QLE.text" = "Search bar";
+
+/* Class = "UIButton"; normalTitle = "Start Route"; ObjectID = "vVi-qU-lHZ"; */
+"vVi-qU-lHZ.normalTitle" = "Start Route";
+
+/* Class = "UINavigationItem"; title = "Plan X"; ObjectID = "y9k-S1-11O"; */
+"y9k-S1-11O.title" = "Plan X";
+
+/* Class = "UITabBarItem"; title = "Translate"; ObjectID = "yg8-en-dTQ"; */
+"yg8-en-dTQ.title" = "Translate";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "zB9-kl-bdk"; */
+"zB9-kl-bdk.placeholder" = "Password";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "zkX-kp-6EE"; */
+"zkX-kp-6EE.title" = "Back";
