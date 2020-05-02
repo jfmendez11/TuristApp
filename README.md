@@ -5,4 +5,4 @@ To use you must install [CocoaPods](https://cocoapods.org/) and run
 ```$ pod install```
 to download dependencies.
 
-You must have a [Google Mpas API Key](https://developers.google.com/maps/documentation/android-sdk/get-api-key) and a [fixer.io](https://fixer.io/product) API key
+You must have a [Google Mpas API Key](https://developers.google.com/maps/documentation/android-sdk/get-api-key) and a [fixer.io](https://fixer.io/product) API key, and set them up in the project's enviroment variables in XCode.
